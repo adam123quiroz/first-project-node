@@ -16,7 +16,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27a9ae9-e3d8-49cc-88c9-31dab59b9b08" name="Default Changelist" comment="commit init" />
+    <list default="true" id="a27a9ae9-e3d8-49cc-88c9-31dab59b9b08" name="Default Changelist" comment="commit init">
+      <change afterPath="$PROJECT_DIR$/public/socket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/message/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/message/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -91,7 +99,7 @@
       <workItem from="1596173194588" duration="144000" />
       <workItem from="1596173363263" duration="126000" />
       <workItem from="1596173512597" duration="449000" />
-      <workItem from="1596174259211" duration="10824000" />
+      <workItem from="1596174259211" duration="19610000" />
     </task>
     <task id="LOCAL-00001" summary="commit init">
       <created>1596205176954</created>
@@ -100,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596205176954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit init">
+      <created>1596205430357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596205430357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -149,6 +164,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595998191566" />
+    <state x="627" y="310" key="Github.ShareDialog" timestamp="1596205377049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="627" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1596205377049" />
     <state width="1515" height="251" key="GridCell.Tab.0.bottom" timestamp="1596173347969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -222,10 +241,10 @@
     </state>
     <state x="360" y="43" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596205364855" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596053294374" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1596205296879">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1596205452671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596205296879" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596205452671" />
     <state x="548" y="257" key="cloudConfig.PluginsDialog" timestamp="1596173404400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
